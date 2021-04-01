@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "declaration": false,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "composite": false,
+    "removeComments": true,
+    "downlevelIteration": true,
+    "isolatedModules": false,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+    "sourceMap": false
+  },
+  "include": ["src/**/*"]
+}
